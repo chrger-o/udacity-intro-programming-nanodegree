@@ -1,2 +1,2 @@
 # udacity-intro-programming-nanodegree
-introduction to programming nanodegree projects
+Projects from <a href="https://www.udacity.com/course/intro-to-programming-nanodegree--nd000">Introduction to Programming Nanodegree</a> Udacity course.
